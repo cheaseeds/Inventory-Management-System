@@ -7,4 +7,4 @@
 - Project developed using XAMPP
 - Apache 2.4.56, MariaDB 10.4.28, PHP 8.2.4, phpMyAdmin 5.2.1, XAMPP Control Panel 3.2.4
 
-![alt text](demo.PNG)
+![alt text](demopng.PNG)
