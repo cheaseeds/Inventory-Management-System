@@ -1,4 +1,4 @@
-# Inventory-Management-System
+# Inventory Management System
 - This application allows view, create, update, and delete items to a database
 - Items updated to the database will be kept track of with timestamps upon update
 - This application has a search/filter function with tablesorter for ease of access to specified items
